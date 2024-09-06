@@ -1,0 +1,131 @@
+{
+  "arableLand": 7855,
+  "hayfieldsAndPastureImproved": 2333,
+  "hayfieldsAndPastureNatural": 2111,
+  "seedsContractDeliveries": 621,
+  "winterGrains": {
+    "onFeed": 3.1,
+    "onProduct": 19.5,
+    "onSeeds": 3,
+    "yieldForecast": 25.6,
+    "costPrice": 41,
+    "sellingPricePerCent": 29.5
+  },
+  "springGrains": {
+    "onFeed": 14.8,
+    "onProduct": 9.9,
+    "onSeeds": 3,
+    "yieldForecast": 27.700000000000003,
+    "costPrice": 46.9,
+    "sellingPricePerCent": 31.2
+  },
+  "pulses": {
+    "onFeed": 14.4,
+    "onSeeds": 3.5,
+    "yieldForecast": 17.9,
+    "costPrice": 49.5,
+    "sellingPricePerCent": 35.1
+  },
+  "rape": {
+    "onProduct": 20.1,
+    "yieldForecast": 20.1,
+    "costPrice": 147.5,
+    "sellingPricePerCent": 78.9,
+    "contractDeliveries": 4486
+  },
+  "annualGrasses": {
+    "yieldForecast": 85.6,
+    "onFeed": 85.6,
+    "sellingPricePerCent": 2.2
+  },
+  "cornOnSilage": {
+    "onFeed": 215.8,
+    "yieldForecast": 215.8,
+    "sellingPricePerCent": 9.8
+  },
+  "hayGrassHay": {
+    "onFeed": 43.6,
+    "yieldForecast": 43.6,
+    "sellingPricePerCent": 1.8
+  },
+  "haylageGrassHay": {
+    "onFeed": 197.4,
+    "yieldForecast": 197.4,
+    "sellingPricePerCent": 7.5
+  },
+  "greenFodderGrassHay": {
+    "onFeed": 335.5,
+    "yieldForecast": 335.5,
+    "sellingPricePerCent": 1.9
+  },
+  "hayfieldsOnHay": {
+    "onFeed": 30.1,
+    "yieldForecast": 30.1
+  },
+  "hayfieldsOnSilage": {
+    "onFeed": 75.2,
+    "yieldForecast": 75.2
+  },
+  "pasturesOnGreenFodder": {
+    "onFeed": 120.3,
+    "yieldForecast": 120.3
+  },
+  "pasturesOnSilage": {
+    "onFeed": 70.7,
+    "yieldForecast": 70.7
+  },
+  "hayImprovedHayfieldsAndPastures": {
+    "sellingPricePerCent": 1
+  },
+  "haylageImprovedHayfieldsAndPastures": {
+    "sellingPricePerCent": 6.5
+  },
+  "haylageNaturalHayfieldsAndPastures": {
+    "sellingPricePerCent": 5.5
+  },
+  "greenFodderNaturalHayfieldsAndPastures": {
+    "sellingPricePerCent": 0.8
+  },
+  "milk": {
+    "price": 102.8,
+    "sellingPricePerCent": 31.5
+  },
+  "meat": {
+    "price": 334.2,
+    "sellingPricePerCent": 450
+  },
+  "concentrates": {
+    "volume": 15000,
+    "price": 39.1
+  },
+  "silo": {
+    "volume": 5000,
+    "price": 15
+  },
+  "greenFodder": {
+    "volume": 5200,
+    "price": 5
+  },
+  "hay": {
+    "volume": 5000,
+    "price": 10
+  },
+  "haylage": {
+    "volume": 2000,
+    "price": 12
+  },
+  "straw": {
+    "volume": 2000,
+    "price": 8
+  },
+  "cows": {
+    "productivity": 60,
+    "livestock": 700,
+    "consumptionOfFU": 1.02
+  },
+  "youngCattle": {
+    "productivity": 700,
+    "livestock": 1200,
+    "consumptionOfFU": 8.5
+  }
+}
